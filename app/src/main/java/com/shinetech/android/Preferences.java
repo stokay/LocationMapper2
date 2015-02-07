@@ -1,5 +1,7 @@
 package com.shinetech.android;
 
+// TEST
+
 import android.content.SharedPreferences;
 import android.location.Location;
 import android.util.Log;
